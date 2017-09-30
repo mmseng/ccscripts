@@ -1,0 +1,1 @@
+shell.run("my/slave.lua 32")
